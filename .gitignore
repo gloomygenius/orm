@@ -1,0 +1,16 @@
+# IntelliJ IDEA and Gradle files #
+/.idea/
+/.gradle/
+*.iml
+
+# Back-end files #
+/build/
+/log/
+/bin/
+/out/
+/.settings
+
+
+# Other files #
+*.log
+*.log.*
